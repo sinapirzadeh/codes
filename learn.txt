@@ -1,2 +1,3 @@
 laragon install
 https://codeyad.com/masters/profile/eimy13
+https://arifthefinix.medium.com/advanced-laravel-10-topics-to-learn-ac02238da2dc
